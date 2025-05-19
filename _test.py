@@ -8,6 +8,10 @@ def square(n):
 def cube(n):
     return n ** 3
 
+# Function to test fourth powergit 
+def fourth_power(n):
+    return n ** 4
+
 # Function to test fifth power
 def fifth_power(n):
     return n ** 5
